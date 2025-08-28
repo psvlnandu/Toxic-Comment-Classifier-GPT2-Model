@@ -71,6 +71,8 @@ The final model achieved the following performance on the evaluation set:
 | Eval Loss | 0.040    |
 
 **Model**
+
   The model is public available on Hugging face mode card [here](https://huggingface.co/raavip/gpt2-toxic-comment-classifier)
+  
   Checkout my [Spaces for full fine tuning code](https://huggingface.co/spaces/raavip/FineTuningModels)
   
