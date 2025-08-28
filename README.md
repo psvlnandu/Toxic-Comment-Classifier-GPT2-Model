@@ -70,9 +70,11 @@ The final model achieved the following performance on the evaluation set:
 | Accuracy  | 0.923    |
 | Eval Loss | 0.040    |
 
-**Model**
+## Model
 
   The model is public available on Hugging face mode card [here](https://huggingface.co/raavip/gpt2-toxic-comment-classifier)
   
   Checkout my [Spaces for full fine tuning code](https://huggingface.co/spaces/raavip/FineTuningModels)
-  
+
+## Note
+If you are looking for hardware resources like GPU for trying fine tuning LLMs do checkout Hugging face spaces & follow the [link](https://huggingface.co/docs/transformers/en/training) to learn how to train transformer model
